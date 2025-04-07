@@ -141,5 +141,3 @@ Improve SEO and AEO for this small business site. Analyze page content and sugge
 - Copy edits to improve clarity
 
 ---
-
-> ✨ Pro Tip: Any new pattern you use 2+ times → turn into a prompt here.
